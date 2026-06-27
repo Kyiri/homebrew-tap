@@ -5,18 +5,18 @@ Homebrew cask for [Kyiri Clip](https://kyiri.com) — a clipboard history manage
 ## Install
 
 ```bash
-brew install --cask kushlendrasingh02/tap/kyiri-clip
+brew install --cask kyiri/tap/kyiri-clip
 ```
 
 or:
 
 ```bash
-brew tap kushlendrasingh02/tap
+brew tap kyiri/tap
 brew install --cask kyiri-clip
 ```
 
 > Note: the cask downloads the `.dmg` from the latest release of the
-> [`kyiri-clip`](https://github.com/kushlendrasingh02/kyiri-clip) repo, so a
+> [`kyiri-clip`](https://github.com/Kyiri/kyiri-clip) repo, so a
 > release tagged `v1.0.0` with the `.dmg` attached must exist first.
 
 ## Updating
